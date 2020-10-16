@@ -17,3 +17,4 @@ funs.o: funs.c funs.h
 
 clean:
 	rm *.o
+	rm main
